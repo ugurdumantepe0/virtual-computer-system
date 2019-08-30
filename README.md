@@ -6,4 +6,6 @@ then a virtual CPU will execute the instructions of the process one-by-one.
 
 Program initially reads assembly instructions from a file, transform them into binary code and write it to a file. At this step program is transforming the assembly instructions into binary code.
 
-Furthermore 
+Furthermore the program is able to simulate the execution of multiple processes in a way that is similar to how computer systems work. with the execution of multiple processes, there are now additional concerns like Loading multiple processes, limited memory and assigning I/O operations to blocked processes. additional queues are implmented to deal with these.
+
+Java is used in this project.
