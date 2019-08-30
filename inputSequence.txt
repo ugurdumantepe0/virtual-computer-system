@@ -1,0 +1,2 @@
+assemblyInput.asm 3000
+assemblyInput2.asm 2000
